@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Acme.WebApi.UnitTest/obj/Acme.WebApi.UnitTest.csproj.nuget.dgspec.json
+/Acme.WebApi.UnitTest/obj/project.assets.json
+/Acme.WebApi.UnitTest/obj/project.nuget.cache
+/Acme.WebApi.UnitTest/bin/Debug/net7.0/acme.webapi.docker.demo.dll
+/Acme.WebApi.UnitTest/bin/Debug/net7.0/acme.webapi.docker.demo.pdb
+/Acme.WebApi.UnitTest/bin/Debug/net7.0/Acme.WebApi.UnitTest.dll
+/Acme.WebApi.UnitTest/bin/Debug/net7.0/Acme.WebApi.UnitTest.pdb
+/Acme.WebApi.UnitTest/bin/Debug/net7.0/CoverletSourceRootsMapping
